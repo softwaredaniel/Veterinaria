@@ -1,0 +1,39 @@
+/*
+  CSS Principal de la web
+*/
+html{
+
+}
+head{
+
+}
+body{
+    background-color: #fff;
+}
+.menu{
+    background-color: #15ADFF;
+    margin:0;
+   
+    
+}
+.menu a{
+    display:block;
+    width:170px;
+    height: 20px;
+    color:#15ADFF;
+    text-decoration: none;
+    text-align: center;
+    
+}
+.menu ul{
+     padding: 0 ;
+    
+    list-style: none;
+}
+.menu a:hover{
+    background: #337ab7;
+    
+}
+.menu li{
+    float:left;
+}
